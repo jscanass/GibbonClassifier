@@ -1,10 +1,14 @@
+ipykernel
 keras == 2.3.1
 soundfile == 0.10.2
+numba == 0.45
 librosa == 0.7.2
+llvmlite==0.32.1
 matplotlib == 3.0.3
 numpy == 1.16.2
 pandas == 0.24.2
 scikit_learn == 0.20.3
-scipy == 1.2.1
+scipy == 1.4.1
+#tensorflow-gpu == 2.1.0
 tensorflow == 2.1.0
-tensorflow-gpu == 2.1.0
+h5py==2.10.0
